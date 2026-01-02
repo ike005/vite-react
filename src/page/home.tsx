@@ -1,6 +1,7 @@
 import {Search, Upload, Bot} from "lucide-react";
 
 
+
 const Home = () => {
     return(
         <>
